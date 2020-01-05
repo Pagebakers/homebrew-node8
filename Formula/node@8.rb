@@ -1,4 +1,4 @@
-class NodikAT8 < Formula
+class NodeAT8 < Formula
   desc "Platform built on V8 to build network applications"
   homepage "https://nodejs.org/"
   url "https://nodejs.org/dist/v8.17.0/node-v8.17.0.tar.xz"
